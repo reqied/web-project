@@ -1,0 +1,20 @@
+h2{margin-left: 20px}
+h2{font-weight: lighter}
+h2{line-height: 0.5}
+h4{color: darkorchid}
+.table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #efefef;
+	border: 1px solid #dddddd;
+}
+.table td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
